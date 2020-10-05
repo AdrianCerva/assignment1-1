@@ -9,7 +9,7 @@ public class CheckingAccount {
 		this.balance = openingBalance;
 		
 	}
-	
+//this a message	
 	public double getBalance() {
 	return this.balance;
 	}
